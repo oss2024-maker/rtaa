@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-
+#####
 def centre_crop(x, target):
     #cut for same length, return x_cut
     #x是下采样的中间层, target是上采样的中间层
