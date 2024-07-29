@@ -1,0 +1,13 @@
+__pycache__/DataLoader.cpython-38.pyc
+__pycache__/Speaker_net.cpython-38.pyc
+__pycache__/Speaker_utils.cpython-38.pyc
+datas/Libri_test_list.txt
+datas/Libri_test_long_list.txt
+datas/Libri_train_list.txt
+datas/LibriSpeech_test_list.txt
+datas/LibriSpeech_train_list.txt
+datas/Vox1_rta_list.txt
+datas/Vox1_test_list_targeted.txt
+datas/Vox1_test_list.txt
+datas/Vox1_train_list.txt
+datas/Voxceleb_test_sv_list.txt
